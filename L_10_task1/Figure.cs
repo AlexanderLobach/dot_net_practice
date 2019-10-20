@@ -26,7 +26,6 @@ class Square : Figure
     {
         this.Side = side;
     }
-
     public double Side {get; set;}
     public override string Area()
     {
