@@ -356,3 +356,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 .vscode/solution-explorer/class.cs-template
+dot_net_practice.sln
